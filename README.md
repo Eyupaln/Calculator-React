@@ -2,6 +2,4 @@
 
 Basit ve şık bir hesap makinesi uygulaması.
 
-![Demo]()
 
-## Kurulum
